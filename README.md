@@ -6,6 +6,8 @@
 
 -The test file is labeled example.arxml and the text in it will be listed below
 
+-When you run the programm from **run.bat** the **example_mod.arxml** file will be created and modified automatically
+
 `<?xml version="1.0" encoding="UTF-8"?>
 <AUTOSAR>
    <CONTAINER UUID="198ae269-8478-44bd-92b5-14982c4ff68a">
