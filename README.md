@@ -6,8 +6,7 @@
 
 -The test file is labeled example.arxml and the text in it will be listed below
 
-`
-<?xml version="1.0" encoding="UTF-8"?>
+`<?xml version="1.0" encoding="UTF-8"?>
 <AUTOSAR>
    <CONTAINER UUID="198ae269-8478-44bd-92b5-14982c4ff68a">
       <SHORT-NAME>ContainerX</SHORT-NAME>
@@ -29,5 +28,5 @@
       <SHORT-NAME>ContainerS</SHORT-NAME>
       <LONG-NAME>SS</LONG-NAME>
    </CONTAINER>
-</AUTOSAR>
-`
+</AUTOSAR>`
+
